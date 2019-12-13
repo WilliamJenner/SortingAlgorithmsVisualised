@@ -1,0 +1,32 @@
+{
+  "name": "sortingalgorithmsvisualised",
+  "version": "1.0.0",
+  "description": "",
+  "private": true,
+  "main": "app.js",
+  "dependencies": {
+    "@types/lodash": "^4.14.149",
+    "light-server": "^2.6.4",
+    "lodash": "^4.17.15",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.3",
+    "webpack": "^4.41.2",
+    "webpack-cli": "^3.3.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack",
+    "dev": "build light-server -s ./dist/. -p 9000"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WilliamJenner/SortingAlgorithmsVisualised.git"
+  },
+  "author": "William Jenner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WilliamJenner/SortingAlgorithmsVisualised/issues"
+  },
+  "homepage": "https://github.com/WilliamJenner/SortingAlgorithmsVisualised#readme"
+}
