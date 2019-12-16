@@ -5,10 +5,16 @@ This will run a sorting  algorithm of choice, and update the UI thread edach sor
 I made this because I injured both of my hands and couldn't work, so I spent too long one handed typing. Also for fun.
 
 ## How to use
-Open a terminal and run
+Open a terminal and type: 
 ```
 $ npm run dev
 ```
-this will open a light-server at localhost:9000.
+This will open a light-server at localhost:9000.
 
 After that, press one of the buttons and enjoy the show.
+
+If you wish to make changes, edit the TypeScript files under /src, and then type:
+```
+$ npm run build
+```
+And then refresh the page.

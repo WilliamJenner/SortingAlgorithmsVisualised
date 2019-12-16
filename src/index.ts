@@ -35,6 +35,4 @@ window.onload = function () {
         shuffle(array);
         return array;
     }
-
-    
 };
