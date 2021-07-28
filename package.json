@@ -9,7 +9,7 @@
     "@types/jquery": "^3.3.31",
     "@types/lodash": "^4.14.149",
     "bootstrap": "^4.4.1",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "light-server": "^2.6.4",
     "lodash": "^4.17.21",
     "ts-loader": "^6.2.1",
